@@ -1,5 +1,8 @@
 # Hi there, I'm Abhinav Jamwal 👋
 
+I am a **PhD Scholar** working in the domain of **Software Engineering** and **Machine Learning**.  
+My research focuses on developing innovative solutions and methodologies to enhance software development processes and leverage machine learning for real-world applications. 🚀  
+
 <!--
 **ABhiIITRoorkee/ABhiIITRoorkee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
